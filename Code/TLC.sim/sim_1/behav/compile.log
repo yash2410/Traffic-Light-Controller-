@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/doshi/VHDL/TLC/TLC.srcs/sources_1/new/TLC_Control.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TLC_Control
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/doshi/VHDL/TLC/TLC.srcs/sim_1/new/TLC_Test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TLC_Control_tb
